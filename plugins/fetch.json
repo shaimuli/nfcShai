@@ -1,0 +1,27 @@
+{
+    "org.apache.cordova.splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.splashscreen"
+        }
+    },
+    "org.apache.cordova.dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.dialogs"
+        }
+    },
+    "org.apache.cordova.device-orientation": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device-orientation"
+        }
+    },
+    "com.chariotsolutions.nfc.plugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/chariotsolutions/phonegap-nfc.git",
+            "subdir": "."
+        }
+    }
+}
