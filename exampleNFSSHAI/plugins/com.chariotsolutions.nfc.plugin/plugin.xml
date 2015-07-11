@@ -44,7 +44,7 @@
 
         <config-file target="AndroidManifest.xml" parent="/manifest">
             <uses-permission android:name="android.permission.NFC"/>
-            <uses-feature android:name="android.hardware.nfc" android:required="false"/>
+            <uses-feature android:name="android.hardware.nfc" android:required="true"/>
         </config-file>
 
     </platform>
