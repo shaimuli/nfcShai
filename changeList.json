@@ -224,9 +224,15 @@
   ],
   "deletedPluginsIos": [],
   "changedFiles": [
-    "plugins\\android.json"
+    "plugins\\android.json",
+    "config.xml"
   ],
   "deletedFiles": [],
-  "addedPlugins": [],
+  "addedPlugins": [
+    "org.apache.cordova.splashscreen@1.0.0",
+    "org.apache.cordova.dialogs@0.3.0",
+    "org.apache.cordova.device-orientation@0.3.11",
+    "com.chariotsolutions.nfc.plugin@0.6.2"
+  ],
   "deletedPlugins": []
 }
