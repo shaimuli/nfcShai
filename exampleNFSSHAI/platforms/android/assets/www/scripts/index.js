@@ -22,7 +22,7 @@
     }
 
     function success(result) {
-        alert("Listening for NFC Messages:" + result);
+        alert("Listening for NFC Messages:");
     }
     function failure(reason) {
         alert("Failed to add NDEF listener");
